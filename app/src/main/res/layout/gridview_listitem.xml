@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <wallpaperscube.pakpublishers.com.wallpapers.business_objects.SquareImage
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="false"
+        android:id="@+id/ImageView_Wallpaper" />
+</LinearLayout>

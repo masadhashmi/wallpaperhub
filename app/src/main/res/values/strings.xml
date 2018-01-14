@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Wallpapers</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="operationURL_getWallpaperCatagories"></string>
+
+
+    <string name="URL_ImageBaseDirectoryURL">downloads/wallpapers</string>
+    <string name="URL_CatagoryThumbnailImageName">thumb.png</string>
+    <string name="URL_BaseURL">http://10.0.2.2/pp/</string>
+    <!--WCF Configurations-->
+    <!--<string name="URL_Service_Url">http://AsadHashmi-pc/pp/services/wallpaperservice.svc</string>-->
+    <!--<string name="URL_Service_SoapAction">http://tempuri.org/Iwallpaperservice/</string>-->
+    <!--<string name="URL_Service_NameSpace">http://tempuri.org/</string>-->
+
+    <string name="URL_Service_Url">http://10.0.2.2/pp/services/pakservice.asmx</string>
+    <string name="URL_Service_SoapAction">http://pakpublishers_test.com/</string>
+    <string name="URL_Service_NameSpace">http://pakpublishers_test.com/</string>
+
+
+    <string name="DownloadWallpaperDirectoryName">cutewallpapers</string>
+
+    <string name="title_activity_catagory_wallpapers">CatagoryWallpapers</string>
+    <string name="title_activity_activity_single_wallpaper">ActivitySingleWallpaper</string>
+
+
+</resources>
